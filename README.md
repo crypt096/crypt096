@@ -4,6 +4,10 @@ Hi there, I'm Alex
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
+## 📞 Contact me
+[![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://www.linkedin.com/in/acvjetan/)
+[![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acvjetan@gmail.com)](mailto:acvjetan@gmail.com)
+
 <br />
 
 ## 🔧 Technologies & Tools
