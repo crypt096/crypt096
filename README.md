@@ -6,9 +6,18 @@ Hi there, I'm Alex
 
 <br />
 
-**Languages and Tools:**
+## 🔧 Technologies & Tools
 
 <a href="#" alt="javascript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
 <a href="#" alt="typescript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
 <a href="#" alt="nodejs"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
 <a href="#" alt="deno"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></code></a>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/crypt096/crypt096">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt096&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/crypt096/crypt096">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt096&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
