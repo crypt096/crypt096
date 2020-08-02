@@ -70,7 +70,7 @@ Hi there, I'm Alex
 ![Apple](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple&logoColor=999999)
 
 ###### Deployment services
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=232F3E)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
 
 ###### Container management
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
