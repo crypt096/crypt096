@@ -8,6 +8,8 @@ Hi there, I'm Alex
 [![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://www.linkedin.com/in/acvjetan/)
 [![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acvjetan@gmail.com)](mailto:acvjetan@gmail.com)
 
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+
 <br />
 
 ## 🔧 Technologies & Tools
