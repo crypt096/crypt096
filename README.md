@@ -85,4 +85,13 @@ Hi there, I'm Alex
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt096&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
 </a>
 
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypt096" alt="crypt096" /> </p>
