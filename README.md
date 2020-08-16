@@ -7,13 +7,25 @@ Hi there, I'm Alex
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 ## 📞 Contact me
+
 [![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://www.linkedin.com/in/acvjetan/)
 [![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acvjetan@gmail.com)](mailto:acvjetan@gmail.com)
 [![Codewars Badge](https://img.shields.io/badge/-crypt096-critical?style=flat-square&logo=Codewars&logoColor=black&link=https://www.codewars.com/users/crypt096/)](https://www.codewars.com/users/crypt096)
 
+## ⚔ Let's solve together 👇
+
+<a href='https://www.codewars.com/users/crypt096'>
+<img src="https://www.codewars.com/users/crypt096/badges/large">
+</a>
+
+<a href='https://projecteuler.net'>
+<img src="https://projecteuler.net/profile/crypt096.png">
+</a>
+
 <br />
 
 ## 🔧 Technologies & Tools
+
 ###### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -29,6 +41,7 @@ Hi there, I'm Alex
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=4FC08D)
 
 ###### Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
@@ -36,43 +49,53 @@ Hi there, I'm Alex
 ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=FFFFFF)
 
 ###### Database
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis&logoColor=DC382D)
 
 ###### API
+
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=E10098)
 
 ###### Package managers
+
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=Yarn&logoColor=2C8EBB)
 
 ###### Testing
+
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=Jasmine&logoColor=8A4182)
 ![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=Karma&logoColor=8A4182)
 ![Enzyme](https://img.shields.io/badge/-Enzyme-000000?style=flat&logo=Enzyme&logoColor=8A4182)
 
 ###### Task runners
+
 ![Grunt](https://img.shields.io/badge/-Grunt-000000?style=flat&logo=Grunt&logoColor=FBA919)
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
 
 ###### Build tools
+
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=8DD6F9)
 
 ###### Version control system
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 ![Subversion](https://img.shields.io/badge/-Subversion-000000?style=flat&logo=Subversion&logoColor=809CC9)
 
 ###### Operating systems
+
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=FCC624)
 ![Apple](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple&logoColor=999999)
 
 ###### Deployment services
+
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
 
 ###### Container management
+
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 
@@ -89,9 +112,7 @@ Hi there, I'm Alex
 
 ```javascript
 // Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
->>> ["🐔", "🐣", "🐥", "🥚"];
+console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypt096" alt="crypt096" /> </p>
