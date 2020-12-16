@@ -83,7 +83,6 @@ Hi there, I'm Alex
 ###### Version control system
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
-![Subversion](https://img.shields.io/badge/-Subversion-000000?style=flat&logo=Subversion&logoColor=809CC9)
 
 ###### Operating systems
 
