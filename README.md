@@ -18,10 +18,6 @@ Hi there, I'm Alex
 <img src="https://www.codewars.com/users/crypt096/badges/large">
 </a>
 
-<a href='https://projecteuler.net'>
-<img src="https://projecteuler.net/profile/crypt096.png">
-</a>
-
 <br />
 
 ## 🔧 Technologies & Tools
