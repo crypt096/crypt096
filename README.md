@@ -100,12 +100,12 @@ Hi there, I'm Alex
 
 
 ###### Data Science / Machine Learning / Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=yellow)
-![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=white")
-![Keras](https://img.shields.io/badge/Keras-000000?&style=flat&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
+![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
+![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
+![Keras](https://img.shields.io/badge/Keras-000000?&style=flat&logo=Keras&logoColor=transparent)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=transparent)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/crypt096/crypt096">
