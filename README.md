@@ -99,6 +99,7 @@ Hi there, I'm Alex
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 
 
+## 🚧 Currently learning 🚧
 ###### Data Science / Machine Learning / Artificial Intelligence
 ![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
