@@ -98,6 +98,9 @@ Hi there, I'm Alex
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 
+
+###### Data Science / Machine Learning / Artificial Intelligence
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=yellow)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/crypt096/crypt096">
