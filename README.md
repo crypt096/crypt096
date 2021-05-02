@@ -34,9 +34,9 @@ Hi there, I'm Alex
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![React-Router](https://img.shields.io/badge/-React_Router-000000?style=flat&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook&logoColor=FF4785)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=4FC08D)
 ![Vuex](https://img.shields.io/badge/-Vuex-000000?style=flat)
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook&logoColor=FF4785)
 
 ###### Backend
 
@@ -51,6 +51,11 @@ Hi there, I'm Alex
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis&logoColor=DC382D)
+
+###### SSR & SSG
+
+![Gatsby.js](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=Gatsby&logoColor=663399)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 ###### API
 
