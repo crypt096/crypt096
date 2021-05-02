@@ -35,7 +35,7 @@ Hi there, I'm Alex
 ![React-Router](https://img.shields.io/badge/-React_Router-000000?style=flat&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=4FC08D)
-![Vuex](https://img.shields.io/npm/v/vuex.svg)
+![Vuex](https://img.shields.io/badge/-Vuex-000000?style=flat&logo=Vuex&logoColor=4FC08D)
 ![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook&logoColor=FF4785)
 
 ###### Backend
@@ -71,8 +71,7 @@ Hi there, I'm Alex
 
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=Jasmine&logoColor=8A4182)
-![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=Karma&logoColor=8A4182)
-![Enzyme](https://img.shields.io/badge/-Enzyme-000000?style=flat&logo=Enzyme&logoColor=8A4182)
+![React Testing Library](https://img.shields.io/badge/-ReactTestingLibrary-000000?style=flat&logo=testing-library)
 
 ###### Task runners
 
