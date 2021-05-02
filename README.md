@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 Hi there, I'm Alex
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
@@ -96,15 +96,17 @@ Hi there, I'm Alex
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 
-
 ## 🚧 Currently learning 🚧
+
 ###### Data Science / Machine Learning / Artificial Intelligence
+
 ![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
 ![Keras](https://img.shields.io/badge/Keras-000000?&style=flat&logo=Keras&logoColor=transparent)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?&style=flat&logo=TensorFlow&logoColor=transparent)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/crypt096/crypt096">
