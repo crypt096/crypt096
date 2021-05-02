@@ -35,7 +35,7 @@ Hi there, I'm Alex
 ![React-Router](https://img.shields.io/badge/-React_Router-000000?style=flat&logo=react-router)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=4FC08D)
-![Vuex](https://img.shields.io/badge/-Vuex-000000?style=flat)
+![Vuex](https://img.shields.io/npm/v/vuex.svg)
 ![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=Storybook&logoColor=FF4785)
 
 ###### Backend
@@ -95,6 +95,8 @@ Hi there, I'm Alex
 ###### Deployment services
 
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=430098)
 
 ###### Container management
 
