@@ -6,6 +6,8 @@ Hi there, I'm Alex
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
+<a href="https://app.daily.dev/crypt0"><img src="https://api.daily.dev/devcards/6950eb49cb364398b81616552f675d2a.png?r=pma" width="400" alt="Aleksandar Cvjetan's Dev Card"/></a>
+
 ## 📞 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acvjetan/)](https://www.linkedin.com/in/acvjetan/)
