@@ -4,9 +4,9 @@ Hi there, I'm Alex
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+<img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
-<a href="https://app.daily.dev/crypt0"><img src="https://api.daily.dev/devcards/6950eb49cb364398b81616552f675d2a.png?r=pma" width="400" alt="Aleksandar Cvjetan's Dev Card"/></a>
+<a href="https://app.daily.dev/crypt0"><img src="https://api.daily.dev/devcards/6950eb49cb364398b81616552f675d2a.png?r=pma" width="150" alt="Aleksandar Cvjetan's Dev Card"/></a>
 
 ## 📞 Contact me
 
